@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-stable-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)
 
-**BananCraft Launcher** is a custom, high-performance Minecraft bootstrapper developed by **Studio Akira**. It provides a seamless experience for players by automating updates, managing game files, and selecting the correct Java environments.
+**BananCraft Launcher** is a custom, high-performance Minecraft bootstrapper developed by **nikok558**. It provides a seamless experience for players by automating updates, managing game files, and selecting the correct Java environments.
 
 ---
 
