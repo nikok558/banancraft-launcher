@@ -40,7 +40,7 @@
 ## 🆘 Troubleshooting
 
 * **White/Blank Window:** Update your GPU drivers. The launcher requires hardware-accelerated 2D graphics.
-* **Launch Failures:** Check `launcher_log.txt` in the `%appdata%/.banancraft` folder for specific error details.
+* **Launch Failures:** Check `log-[date]_[time].txt` in the `%appdata%/.banancraft/logs` folder for specific error details.
 * **Update Issues:** If the auto-updater fails, please manually download the latest setup from the website.
 
 ---
