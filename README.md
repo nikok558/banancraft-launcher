@@ -1,6 +1,6 @@
 # 🍌 BananCraft Launcher
 
-![Version](https://img.shields.io/badge/version-1.0.7-yellow?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.8-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-stable-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)
 
