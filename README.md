@@ -1,6 +1,6 @@
 # 🍌 BananCraft Launcher
 
-![Version](https://img.shields.io/badge/version-1.0.8-yellow?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-1.0.9-yellow?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-stable-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)
 
@@ -14,6 +14,7 @@
 * **Smart Runtime Manager:** Automatically downloads and configures the required Java JRE for each Minecraft version (1.8 to 1.20+).
 * **Isolated Data:** All game files are stored in `%appdata%/.banancraft` to keep your system organized.
 * **Integrated News:** Stay updated with the latest server news and changelogs directly in the dashboard.
+* **FIXED LEGACY SOUNDS:** Now Minecraft Beta and Alpha versions has old nostalgic sounds back!
 
 ---
 
